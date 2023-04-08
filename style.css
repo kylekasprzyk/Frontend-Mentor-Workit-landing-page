@@ -485,7 +485,7 @@ footer {
         font-size: var(--fs-32px);
         line-height: 2rem;
         letter-spacing: -0.0112rem;
-        color: #44FFA1;
+        color: hsl(var(--eucaplyptus));
     }
 
     nav a {
@@ -497,7 +497,7 @@ footer {
         font-size: var(--fs-80px);
         line-height: 5rem;
         text-align: center;
-        color: #FFFFFF;
+        color: hsl(var(--white));
         max-width: 40rem;
         margin-top: .125rem;
     }
@@ -510,7 +510,7 @@ footer {
         line-height: 2rem;
         text-align: center;
         letter-spacing: -0.0112rem;
-        color: #24053E;
+        color: hsl(var(--dark-purple));
     }
 
     .hero-image {
@@ -547,7 +547,7 @@ footer {
         font-size: var(--fs-32px);
         line-height: 2.5rem;
         text-align: center;
-        color: #24053E;
+        color: hsl(var(--dark-purple));
         margin-top: 1.625rem;
         margin-bottom: 1.875rem;
     }
@@ -557,7 +557,7 @@ footer {
         font-size: var(--fs-18px);
         line-height: 2rem;
         text-align: center;
-        color: #24053E;
+        color: hsl(var(--dark-purple));
         padding: 0 1rem;
     }
 
@@ -587,7 +587,7 @@ footer {
         font-weight: 600;
         font-size: var(--fs-56px);
         line-height: 4rem;
-        color: #FFFFFF;
+        color: hsl(var(--white));
         margin-bottom: 2rem;
     }
 
