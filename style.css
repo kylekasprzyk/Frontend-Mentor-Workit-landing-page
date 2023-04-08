@@ -264,7 +264,7 @@ nav a:hover {
     z-index: 999;
 }
 
-.founder-cta h1 {
+.founder-cta h2 {
     font-family: --ff-fraunces-144;
     font-style: normal;
     font-weight: 600;
@@ -439,7 +439,7 @@ footer {
         padding: 3rem 3.5rem 3.5rem 3.5rem;
     }
 
-    .founder-cta h1 {
+    .founder-cta h2 {
         font-weight: 600;
         font-size: var(--fs-48px);
         line-height: 3.5rem;
@@ -583,7 +583,7 @@ footer {
         width: 45.625rem;
     }
 
-    .founder-cta h1 {
+    .founder-cta h2 {
         font-weight: 600;
         font-size: var(--fs-56px);
         line-height: 4rem;
