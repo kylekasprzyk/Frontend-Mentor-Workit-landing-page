@@ -3,7 +3,7 @@
   <h2>
     <a href="https://www.frontendmentor.io/challenges/workit-landing-page-2fYnyle5lu"><strong>Frontend Mentor Challenge</strong></a>  </h2>
     <p>
-    <a href="#">My Solution</a>
+    <a href="https://kylekasprzyk.github.io/Frontend-Mentor-Workit-landing-page/">My Solution</a>
   </p>
 </div>
 
@@ -31,7 +31,7 @@ This is a solution to the [Workit landing page challenge on Frontend Mentor](htt
 ## Links
 
 - [Solution URL](#)
-- [Live Site URL](#)
+- [Live Site URL](https://kylekasprzyk.github.io/Frontend-Mentor-Workit-landing-page/)
 
 ## Built with
 
