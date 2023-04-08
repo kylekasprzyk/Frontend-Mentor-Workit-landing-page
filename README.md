@@ -30,7 +30,7 @@ This is a solution to the [Workit landing page challenge on Frontend Mentor](htt
 
 ## Links
 
-- [Solution URL](#)
+- [Solution URL](https://www.frontendmentor.io/solutions/workit-landing-page-solution-VxkNMExMIn)
 - [Live Site URL](https://kylekasprzyk.github.io/Frontend-Mentor-Workit-landing-page/)
 
 ## Built with
