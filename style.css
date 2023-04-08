@@ -78,7 +78,8 @@ button {
 
 p,
 h1,
-h2 {
+h2,
+h3 {
     overflow-wrap: break-word;
 }
 
@@ -223,7 +224,7 @@ nav a:hover {
     margin-right: auto;
 }
 
-.feature h1 {
+.feature h3 {
     margin-top: 1.5rem;
     margin-bottom: 1rem;
     font-family: --ff-fraunces-144;
@@ -399,7 +400,7 @@ footer {
         gap: 2rem;
     }
 
-    .feature h1 {
+    .feature h3 {
         margin-top: 0;
         margin-bottom: 1rem;
     }
@@ -541,7 +542,7 @@ footer {
         font-size: var(--fs-24px);
     }
 
-    .feature h1 {
+    .feature h3 {
         font-weight: 600;
         font-size: var(--fs-32px);
         line-height: 2.5rem;
