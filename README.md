@@ -17,6 +17,12 @@
     <a href="#">
     <img src="https://img.shields.io/badge/Status-Complete-brightgreen" alt="Status Complete">
   </a>
+  
+## Google Lighthouse
+![](https://img.shields.io/badge/Performance-99%25-brightgreen)
+![](https://img.shields.io/badge/Accessibility-100%25-brightgreen)
+![](https://img.shields.io/badge/Best%20Practices-100%25-brightgreen)
+![](https://img.shields.io/badge/SEO-100%25-brightgreen)
 </div>
 
 ![](./starter-code/assets/images/preview.jpg)
